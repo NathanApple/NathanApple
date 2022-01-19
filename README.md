@@ -24,3 +24,6 @@
 
 <br />
 <br />
+
+## Stats
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NathanApple)](https://github.com/anuraghazra/github-readme-stats)
