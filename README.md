@@ -2,8 +2,10 @@
 
 ## I'm a Web Developer!!
 
-- 🌱 I’m currently learning everything 🤣
-- ⚡ I love playing chess
+- 🌱 Currently studying in Binus University Alam Sutera
+- ♟️ Love Playing chess at free time
+- ☕ #TeamTea
+- 🎧 Always listening to lofi music
 
 
 ### Languages and Tools:
