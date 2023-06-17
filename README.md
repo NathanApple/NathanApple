@@ -5,7 +5,7 @@
 - 🌱 Currently studying in Binus University Alam Sutera
 - ♟️ Love Playing chess at free time
 - ☕ #TeamTea
-- 🎧 Always listening to lofi music
+- 🎧 Always listening to low beat music
 
 
 ### Languages and Tools:
