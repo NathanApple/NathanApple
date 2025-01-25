@@ -3,10 +3,9 @@
 ## I'm a Web Developer!!
 
 - 🌱 Currently studying in Binus University Alam Sutera
+- 🌐 3 Years Experienced Web Developer
+- 🤖 Developer of BEExpert, Chatbot for student learn.
 - ♟️ Love Playing chess at free time
-- ☕ #TeamTea
-- 🎧 Always listening to low beat music
-
 
 ### Languages and Tools:
 
